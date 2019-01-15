@@ -1,12 +1,15 @@
 ---
-title: Front-end web development with Greg
-menuTitle: With Greg
+title: My game tags (PSN, Battle.net, Xbox Live, Steam etc.)
+menuTitle: GameTags
 ---
 
-[Front-end web development with Greg](https://dev.greglobinski.com) is a blog I have just launched.
+- PSN : `rockash93`
+- XboxLive : `rockash93`
+- Battle.net : `rockAsh93#1118`
+- Steam : `rockash93`
+- Origin : `rockash93`
+- YouTube Gaming : [Shawon Ashraf](https://www.youtube.com/channel/UCbG9ej0a4InsenZSplt4mjg)
+- Twitch : [rockash93_bd](https://www.twitch.tv/rockash93_bd)
 
-It will be a home for all instruction and tutorial articles relating to my GatsbyJS starters. The dominant subject areas will be of course GatsbyJS but also ReactJS, EcmaScript 2015+ and CSS in JS.
 
-If you want to be informed about new content on the blog follow me on Twitter - [@greglobinski](https://twitter.com/greglobinski).
-
-Are you thinking about a particular subject, relating to the starters, I could write about? Tweet me.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t-JWh6BUmpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
