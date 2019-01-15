@@ -4,7 +4,7 @@ module.exports = {
   siteDescription: "rumblings of an idiot",
   siteUrl: "",
   // pathPrefix: "",
-  siteImage: "",
+  siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
