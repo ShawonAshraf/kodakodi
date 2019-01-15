@@ -1,13 +1,13 @@
 ---
 title: Cooking big Excel files with Python and Openpyxl
 category: "python"
-cover: python-hello-world.png
+cover: picture-python-logo.png
 author: Shawon Ashraf
 ---
 
 At least once in life, every computer user has to handle some spreadsheets or, excel files. Sometimes to put formulas in for accounting stuff, sometimes to store data from Google forms or other surveys and etc. So what do you actually do when the spreadsheet contains just survey data or no number to apply formulas at all? I know you'll get your hands dirty and do it manually. It's fine if the there's data from roughly a hundred people. What will you do if there's data from a thousand or more? I'd have run away in such cases because I'm way too lazy to scroll down and have a look at those. Hopefully I know how to do magic tricks using Python and I'm going to show you this specific magic trick today.
 
-> **Let's make a problem first**
+## Let's make a problem first
 
 I have a spreadsheet at my hand that has Name, Address and E-mail of 10,000 (Ten thousand, read that aloud) people. What I need to do is using this information I need to create .txt files for each of them using their names as the file name that'll contain there Name, Address and E-mail. More like a business card.
 
@@ -19,7 +19,7 @@ A screenshot of a portion of the file for your reference :
 
 
 
-> **What we need**
+## What we need
 
 - ```python3```
 - ```openpyxl``` Module. Install it using the following command in your command prompt / shell:
@@ -30,7 +30,7 @@ pip install openpyxl
 
 
 
-> **So let's get to code**
+## So let's get to code
 
 Our spreadsheet file name is : **TestBook.xlsx**
 
@@ -78,7 +78,7 @@ print(maxCol)
 ```
 
  
-> **Aw yes! xD**
+## Aw yes! xD
 
 So it does load all those things. Fascinating! Now to the real part of thing, where we read people's private data( This is where you feel like Google! Although this data is fake. ) and write them to files xD
 
@@ -104,7 +104,7 @@ print('Done writing your business card hooman!')
 ```
 
 
-> **Are there actually 10,000 text files written? OMG!**
+## Are there actually 10,000 text files written? OMG!
 
 Why don't we just find it out with another python script?
 
@@ -128,7 +128,7 @@ print(fileNo)
 
 
 
-> **Come on! Can't see 10,000 files on my computer! [ Neither can I ]**
+## Come on! Can't see 10,000 files on my computer! [ Neither can I ]
 
 Our very friendly Faker generator did some witty stuff and generated some duplicate entries. And that led to the discovery that we're actually looking at 9382 files. Well duplicates will get overwritten easily since we're naming with each person's name after all!
 
@@ -136,6 +136,6 @@ Our very friendly Faker generator did some witty stuff and generated some duplic
 <img src="http://i.imgur.com/AQS38nq.png" alt="cook-big-excel-py-2" height="600" width="640"/>
 
 
-> **So where can I find such large excel files?**
+## So where can I find such large excel files?
 
 Well don't ask me. Better keep your scripts ready when you face those nasty, huge, ugly spreadsheets! Till then I go incognito for chilling out, leaving you to scratch your heads over what just happened. ***Sayonara!***
