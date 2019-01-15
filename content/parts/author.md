@@ -2,4 +2,5 @@
 title: author
 ---
 
-**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus.
+**Shawon Ashraf**  Hails from Dhaka, Bangladesh. A forever Java guy who's tinkering with JavaScript and Swift these days. A long time RPG fan who plays Overwatch like frenzy these days. I like to talk
+               anything *nix and OSS.
