@@ -1,6 +1,6 @@
 ---
 title: Workshop on Linux and Unix, Fall 2018, NSU
-category: "python"
+category: "workshop"
 cover: tux-1531289_960_720.png
 author: Shawon Ashraf
 ---
