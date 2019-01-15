@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "kodakodi - a noobish blog", // <title>
   shortSiteTitle: "kodakodi", // <title> ending for posts and pages
   siteDescription: "rumblings of an idiot",
-  siteUrl: "",
+  siteUrl: "https://kodakodi.netlify.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
