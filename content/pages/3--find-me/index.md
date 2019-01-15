@@ -12,6 +12,8 @@ menuTitle: Find Me!
 - Twitch : [rockash93_bd](https://www.twitch.tv/rockash93_bd)
 - Spotify : [rockash93](https://open.spotify.com/user/rockash93?si=s9TGE8RGRCC2eW1rn-RaEQ)
 - Apple Music : `Shawon Ashraf`
-
+- Github : [ShawonAshraf](https://www.github.com/ShawonAshraf)
+- Medium : [Shawon Ashraf](https://medium.com/@sashraf94)
+- Twitter : `@shawon_ashraf`
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t-JWh6BUmpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
