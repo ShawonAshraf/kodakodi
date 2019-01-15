@@ -2,26 +2,31 @@
 title: About
 ---
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+Hi there! It's Shawon Ashraf. I’m from Dhaka, Bangladesh. A forever Java guy who's tinkering with JavaScript and Swift these days. A long time RPG fan who plays Overwatch like frenzy these days. I like to talk
+anything *nix and OSS.
 
-### Features:
+Github : [ShawonAshraf](https://www.github.com/ShawonAshraf)
+Medium : [Shawon Ashraf](https://medium.com/@sashraf94)
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+### Old me in an object
+
+```javascript
+let mySelf = {
+  cs_grad: 'A CS graduate from North South University, Dhaka.',
+  msp: {
+    elaboration: 'Microsoft Student Partners',
+    timeline: '2014-2017',
+    roles: [
+      'MSP Campus Social Media Lead 2015-2016',
+      'MSP Campus Lead  2016-2017'
+    ]
+  nsu_acm_student_chapter: {
+    link: 'https://www.facebook.com/nsuacmc/'
+    timeline: '2017-2018'
+    roles: [
+      'Vice Chair'
+    ]
+  }
+}
+```
+
