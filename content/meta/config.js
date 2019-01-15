@@ -8,12 +8,12 @@ module.exports = {
   siteLanguage: "en",
 
   /* author */
-  authorName: "shawon ashraf",
+  authorName: "Shawon Ashraf",
   authorTwitterAccount: "shawon_ashraf",
 
   /* info */
-  headerTitle: "shawon ashraf",
-  headerSubTitle: "a noobs blog",
+  headerTitle: "Shawon Ashraf",
+  headerSubTitle: "I solemnly swear that I'm upto no good",
 
   /* manifest.json */
   manifestName: "kodakodi",
