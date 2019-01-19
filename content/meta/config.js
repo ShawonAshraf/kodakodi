@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: "kodakodi - a noobish blog", // <title>
-  shortSiteTitle: "kodakodi", // <title> ending for posts and pages
+  siteTitle: "A noobish blog", // <title>
+  shortSiteTitle: "shawonashraf.github.io", // <title> ending for posts and pages
   siteDescription: "rumblings of an idiot",
-  siteUrl: "https://kodakodi.netlify.com",
+  siteUrl: "https://shawonashraf.github.io",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
@@ -16,8 +16,8 @@ module.exports = {
   headerSubTitle: "I solemnly swear that I'm upto no good",
 
   /* manifest.json */
-  manifestName: "kodakodi",
-  manifestShortName: "kodakodi", // max 12 characters
+  manifestName: "shawonashraf.github.io",
+  manifestShortName: "shawonashraf.github.io", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
