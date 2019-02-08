@@ -65,7 +65,7 @@
     "lint": "eslint src/**/*.{js,jsx}",
     "stylelint": "stylelint src/**/*.js",
     "generate-app-icons": "sh ./scripts/generate-app-icons.sh",
-    "deploy": "gatsby build && gh-pages -d public -r https://github.com/ShawonAshraf/ShawonAshraf.github.io -b master -t"
+    "deploy": "gatsby build && gh-pages -d public -r https://github.com/ShawonAshraf/ShawonAshraf.github.io -b master"
   },
   "devDependencies": {
     "@mapbox/stylelint-processor-arbitrary-tags": "^0.2.0",
