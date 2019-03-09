@@ -2,5 +2,4 @@
 title: author
 ---
 
-**Shawon Ashraf**  Hails from Dhaka, Bangladesh. A forever Java guy who's tinkering with JavaScript and Swift these days. A long time RPG fan who plays Overwatch like frenzy. I like to talk
-               anything *nix and OSS.
+**Shawon Ashraf**  Hails from Dhaka, Bangladesh. A forever Java guy who's tinkering with JavaScript and Swift these days. Doesn't like game publishers who think SinglePlayer is dead and a big fan of good stories in games.
